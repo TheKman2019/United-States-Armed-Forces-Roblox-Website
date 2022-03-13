@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+__**UNITED STATES ARMED FORCES ROBLOX**__
+***
 
-You can use the [editor on GitHub](https://github.com/TheKman2019/United-States-Armed-Forces-Roblox-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The US Armed Forces founded by TheKman2019 is a group on ROBLOX that is a military style group. The US Armed Forces goes into many battles and they are the military for the USA. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+**BRANCHES**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| UNITED STATES ARMY - OPEN
 
-```markdown
-Syntax highlighted code block
+| UNITED STATES MARINE CORPS - CLOSED 
 
-# Header 1
-## Header 2
-### Header 3
+| UNITED STATES AIR FORCE - CLOSED 
 
-- Bulleted
-- List
+| UNITED STATES MILITARY POLICE CORPS - OPEN
 
-1. Numbered
-2. List
+| OFFICER CANDIDATE SCHOOL - OPEN
+***
 
-**Bold** and _Italic_ and `Code` text
+**LINKS**
 
-[Link](url) and ![Image](src)
-```
+**Armed Forces Group:** https://www.roblox.com/groups/14285385/United-States-Armed-Forces#!/about
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Army Group:** https://www.roblox.com/groups/8859911/US-I-US-Army#!/about
 
-### Jekyll Themes
+Other links can be found within the group social pages.
+***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheKman2019/United-States-Armed-Forces-Roblox-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**CREDITS**
+TheKman2019 - Everything
 
-### Support or Contact
+***
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
